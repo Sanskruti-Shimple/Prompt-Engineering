@@ -73,3 +73,20 @@ Certainly! Here's a table summarizing the interest amounts for a loan of Rs. 5 l
 | ICICI            | 8.75%         | Rs. 2,18,750    |
 
 Please note that this table provides an estimate of the interest amounts based on the given information. The actual interest rates and terms may vary. It's advisable to contact the respective banks directly for precise and updated details on their loan offerings.
+
+
+
+<b>ScreenShots<b> 
+
+![image](https://github.com/Sanskruti-Shimple/Prompt-Engineering-/assets/84955646/7fe98e79-aa37-42d7-abea-cf9d2a3a1a83)
+![image](https://github.com/Sanskruti-Shimple/Prompt-Engineering-/assets/84955646/847d6195-4160-4979-982b-4f1fad714594)
+![image](https://github.com/Sanskruti-Shimple/Prompt-Engineering-/assets/84955646/63b1f832-242b-40c8-bb72-9954b3ebcd78)
+![image](https://github.com/Sanskruti-Shimple/Prompt-Engineering-/assets/84955646/455a6854-49f8-4c5a-8868-42372f973650)
+![image](https://github.com/Sanskruti-Shimple/Prompt-Engineering-/assets/84955646/ff794faf-5acc-4d49-b690-7cbf0aabfff6)
+![image](https://github.com/Sanskruti-Shimple/Prompt-Engineering-/assets/84955646/c10aaedd-199d-417d-9c01-150898a686ea)
+![image](https://github.com/Sanskruti-Shimple/Prompt-Engineering-/assets/84955646/c8db1dd5-3257-47d7-aa13-e5ad0ff36479)
+![image](https://github.com/Sanskruti-Shimple/Prompt-Engineering-/assets/84955646/50da181c-b223-425a-b6f0-d4831981170d)
+![image](https://github.com/Sanskruti-Shimple/Prompt-Engineering-/assets/84955646/67a746a0-bb14-4191-8eb3-54698246b2b9)
+![image](https://github.com/Sanskruti-Shimple/Prompt-Engineering-/assets/84955646/f731b0db-c3b3-4e03-8f9d-4e60217a687f)
+![image](https://github.com/Sanskruti-Shimple/Prompt-Engineering-/assets/84955646/98c44ff8-eac7-4adb-b875-b4b7cd82c216)
+
