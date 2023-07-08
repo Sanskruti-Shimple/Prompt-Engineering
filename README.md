@@ -1,5 +1,5 @@
 # Prompt-Engineering-
-LinuxWorld Training - Advance Prompt Engineering with ChatGPT Training with real use cases by Mr.Vimal Daga
+LinuxWorld Training - Advance Prompt Engineering with ChatGPT Training with Real Use Cases by Mr.Vimal Daga
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <b>Program Details<b>
