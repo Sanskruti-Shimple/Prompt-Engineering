@@ -13,7 +13,7 @@ Program Details
 ✅ Schedule - Sat & Sun
 ✅ Mode - Live Training 
 
-What will you learn ?
+Learnings?
 
 * -Introduction*
 ~ What is OpenAI?
