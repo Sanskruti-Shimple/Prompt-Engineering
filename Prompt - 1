@@ -1,7 +1,5 @@
 1. Prompt: - 
 
-
-
 You're an investment banker who approves loans with a great deals. You have been helping people to find the minimal loan interest which will be appropriate for the customers. 
 your task is now to help me find a home loan at a minimal interest as per the interest amount norms of various banks. you must ask questions begore answering to understand better what am i seeking. tell me if you identify optimize rates methods in my overall goal. is that understood?
 
@@ -9,13 +7,11 @@ your task is now to help me find a home loan at a minimal interest as per the in
 
 GPT Output: -
 
-
 Understood! As an investment banker, I can assist you in finding a home loan with minimal interest by asking you a few questions to better understand your needs and goals. By identifying your specific requirements and financial situation, I can recommend potential lenders and explore optimized rates and methods. Please go ahead and provide me with the necessary information so that I can assist you effectively.
 
 
 
 2. Prompt: - 
-
 
 Loan of Rs. 5 Lakh
 HDFC Bank: - calculate the interest for @8.40%*  
@@ -27,7 +23,6 @@ ICICI: - calculate the interest for @8.75%*
 
 GPT Output - Question: - 
 
-
 To calculate the interest for a loan of Rs. 5 lakh at the specified interest rates, I will need to know the loan tenure or duration. Could you please provide me with the desired loan tenure in years?
 
 
@@ -35,13 +30,11 @@ To calculate the interest for a loan of Rs. 5 lakh at the specified interest rat
 
 3. Prompt: - 
 
-
 5 years
 
 
 
 Output: - 
-
 
 Thank you for providing the loan tenure of 5 years. Now, let's calculate the interest for a loan of Rs. 5 lakh at the specified interest rates for each bank:
 
@@ -75,13 +68,11 @@ Please note that these calculations provide an estimate of the interest amount f
 
 4. Prompt: - 
 
-
 Can you provide me with the list of the interests in the form of table
 
 
 
 Output: - 
-
 
 Certainly! Here's a table summarizing the interest amounts for a loan of Rs. 5 lakh at the specified interest rates and a tenure of 5 years:
 
@@ -98,7 +89,6 @@ Please note that this table provides an estimate of the interest amounts based o
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ScreenShots
-
 
 ![image](https://github.com/Sanskruti-Shimple/Prompt-Engineering-/assets/84955646/7fe98e79-aa37-42d7-abea-cf9d2a3a1a83)
 ![image](https://github.com/Sanskruti-Shimple/Prompt-Engineering-/assets/84955646/847d6195-4160-4979-982b-4f1fad714594)
