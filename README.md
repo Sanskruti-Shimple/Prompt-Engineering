@@ -11,7 +11,7 @@ LinuxWorld Training - Advance Prompt Engineering with ChatGPT Training with Real
 
 <b> What will you learn? <b> 
 
-
+<li><ul>
 <b> - Introduction <b>
 
 ~ What is OpenAI?
@@ -29,17 +29,17 @@ LinuxWorld Training - Advance Prompt Engineering with ChatGPT Training with Real
 ~ One-Shot (1S)
 
 ~ Zero-Shot (0S)
-
+</ul></li>
 
 <b> - ChatGPT & Use Cases <b> 
 
-
+<li><ul>
 ~ Breaking down complex problems
-
+</ul></li>
 
 <b> - Code creation with chat GPT <b>
 
-
+<li><ul>
 ~ Code Troubleshooting
 
 ~ Language Translation
@@ -121,10 +121,12 @@ LinuxWorld Training - Advance Prompt Engineering with ChatGPT Training with Real
 ~ Images
 
 ~ Embeddings
+</ul></li>
 
 
 <b> - Advanced concepts in ChatGPT <b> 
 
+<li><ul>
 ~ To Long Didn't Read (TLDR) Method In ChatGpT
 
 ~ History Research with ChatGPT
@@ -132,10 +134,12 @@ LinuxWorld Training - Advance Prompt Engineering with ChatGPT Training with Real
 ~ Create Google Chrome Extensions Without Coding
 
 ~ Exploring Healthcare With ChatGPT
+</ul></li>
 
 
 <b> - Prompt Engineering <b> 
 
+<li><ul>
 ~ Principles of Effective Prompt Engineering
 
 ~ Creating Effective Prompts
@@ -155,10 +159,12 @@ LinuxWorld Training - Advance Prompt Engineering with ChatGPT Training with Real
 ~ Analyzing and Evaluating Prompt Performance
 
 ~ Advanced Prompt Engineering
+</ul></li>
 
 
 <b> - Dealing with Biases in Prompt Responses <b> 
 
+<ul><ul>
 ~ Mitigating Inappropriate or Unwanted Responses
 
 ~ Engineering Prompts for Multilingual and Multicultural Contexts
@@ -176,3 +182,4 @@ LinuxWorld Training - Advance Prompt Engineering with ChatGPT Training with Real
 ~ Asking probing questions to elicit informative responses
 
 ~ Handling limitations and uncertainties in model-generated content
+</ul></li>
