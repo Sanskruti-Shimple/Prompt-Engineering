@@ -2,6 +2,11 @@
 LinuxWorld Training - Advance Prompt Engineering with ChatGPT Training with Real Use Cases by Mr. Vimal Daga
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+
+![image](https://github.com/Sanskruti-Shimple/Prompt-Engineering-/assets/84955646/4816ce71-0263-488d-b479-8c3f1cbd2054)
+
+
+
 Program Details
 ✅ Dates - 8th & 9th July
 ✅ Time - 11:00 am to 7:00 pm IST
